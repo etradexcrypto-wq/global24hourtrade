@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/kepelvrjuc/copysignals.online/
+    - export DEPLOYPATH=/home/kepelvrjuc/global24hourtrade.com/
     - /bin/cp -R dist/. $DEPLOYPATH

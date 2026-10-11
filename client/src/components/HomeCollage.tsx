@@ -208,7 +208,7 @@ export default function HomeCollage() {
             <article className={`collage-card ${className}`} key={title}>
               <img src={image} alt="" loading="lazy" />
               <div>
-                <small>copysignals / {title}</small>
+                <small>global24hourtrade / {title}</small>
                 <h3>{title}</h3>
                 <p>{body}</p>
               </div>
